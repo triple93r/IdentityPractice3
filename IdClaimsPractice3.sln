@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdClaimsPractice3", "IdClaimsPractice3\IdClaimsPractice3.csproj", "{A2AD0EBA-2262-489F-A1B4-6AEE86BDC145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AD0EBA-2262-489F-A1B4-6AEE86BDC145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AD0EBA-2262-489F-A1B4-6AEE86BDC145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AD0EBA-2262-489F-A1B4-6AEE86BDC145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AD0EBA-2262-489F-A1B4-6AEE86BDC145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A66951-30F2-46CA-8068-378FB8D9C592}
+	EndGlobalSection
+EndGlobal
